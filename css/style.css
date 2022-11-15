@@ -3,11 +3,12 @@
 html, body {
   height: 100%;
   min-height: 100%;
-}
 
 body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
-  background-size: cover;
+  background-size: {
+
+  }
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
